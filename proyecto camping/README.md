@@ -1,0 +1,2 @@
+Este es un proyecto se realiza en el marco del curso "Desarrollo Web Frontend JS" de Talento Tech. Como objetivo debemos crear un sitio web de ventas utilizando diveferentes etiquetas en el lenguaje HTML, estilos en CSS y funcionalidades en Javascript.
+Para el mismo elegí que se enmarque en la venta de artículos de camping
